@@ -1,0 +1,19 @@
+
+---
+
+## 📄 **.gitignore**
+```gitignore
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Envs
+venv/
+env/
+.venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
